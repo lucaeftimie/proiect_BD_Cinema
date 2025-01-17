@@ -1,0 +1,3 @@
+DROP TABLE recenzii_filme CASCADE CONSTRAINTS;
+FLASHBACK TABLE recenzii_filme TO BEFORE DROP;
+
