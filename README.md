@@ -40,7 +40,7 @@
 
 
 
-## Fișier 8 - codul interogărilor din fișierul 0.1.
+## Fișier 8 - codul interogărilor din fișierul 0
 
 
 
